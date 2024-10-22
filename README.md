@@ -4,6 +4,8 @@
 
 RAKUTEN-CLASSIFICATION is a machine learning project that focuses on the preprocessing and classification of text and image data, combining text feature extraction with image feature extraction. The project includes separate modules for handling both types of data, and an extensive visualization of model performance, including accuracy, precision, and other key metrics.
 
+https://challengedata.ens.fr/participants/challenges/35/
+
 ### Project Structure
 
 The project is organized as follows:
